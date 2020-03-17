@@ -12,3 +12,13 @@ Some typical examples are shown below(the left column are Vis images and the rig
 <img src="https://github.com/hanna-xu/road-scene-infrared-visible-images/blob/master/crop_HR_visible/FLIR_07202.jpg" width="400" height="240"/>    <img src="https://github.com/hanna-xu/road-scene-infrared-visible-images/blob/master/cropinfrared/FLIR_07202.jpg" width="400" height="240"/>
 
 <img src="https://github.com/hanna-xu/road-scene-infrared-visible-images/blob/master/crop_HR_visible/FLIR_07206.jpg" width="400" height="230"/>    <img src="https://github.com/hanna-xu/road-scene-infrared-visible-images/blob/master/cropinfrared/FLIR_07206.jpg" width="400" height="230"/>
+
+If you use the dataset in your research, please cite the following paper:
+```
+@inproceedings{xu2020aaai,
+title={FusionDN: A Unified Densely Connected Network for Image Fusion},
+author={Xu, Han and Ma, Jiayi and Le, Zhuliang and Jiang, Junjun and Guo, Xiaojie},
+booktitle={proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},
+year={2020}
+}
+```
